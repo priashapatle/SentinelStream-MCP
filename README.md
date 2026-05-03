@@ -34,35 +34,35 @@ This system provides businesses with a **“Sentinel Pulse”** — a real-time 
 
 Use these sample brand keywords to explore different sentiment behaviors and fully test the system:
 
-- **🍔 Swiggy
-  Best for real-time customer feedback simulation with mixed sentiment.
+- **🍔 Swiggy 
+  (Best for real-time customer feedback simulation with mixed sentiment).
 
 - **🍽️ Zomato
-  Great for comparing sentiment trends alongside Swiggy.
+  (Great for comparing sentiment trends alongside Swiggy).
 
 - **🚗 Tesla
-  Ideal for observing dynamic sentiment shifts (positive + negative mix).
+  (Ideal for observing dynamic sentiment shifts (positive + negative mix).
 
 - **🍎 Apple
-  Useful for testing strong positive sentiment scores.
+  (Useful for testing strong positive sentiment scores).
 
 - **🔍 Google
-  A stable baseline for consistent tech-related sentiment.
+  (A stable baseline for consistent tech-related sentiment).
 
 - **📦 Amazon
-  Perfect for analyzing detailed and diverse social mentions.
+  (Perfect for analyzing detailed and diverse social mentions).
 
 - **💄 Nykaa
-  Best for lifestyle and fashion category sentiment testing.
+  (Best for lifestyle and fashion category sentiment testing).
 
 - **☕ Starbucks
-  Helps evaluate premium brand perception scoring.
+  (Helps evaluate premium brand perception scoring).
 
 - **🎬 Netflix
-  Great for entertainment-based sentiment fluctuations.
+  (Great for entertainment-based sentiment fluctuations).
 
 - **💻 Microsoft
-  Represents professional and steady corporate sentiment.
+  (Represents professional and steady corporate sentiment.)
 
 ---
 

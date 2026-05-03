@@ -1,0 +1,31 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Virtual environments)
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit-specific (Local settings)
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Google Cloud & Docker
+.gcloudignore
+Dockerfile
+start.sh
+# Note: Keep Dockerfile/start.sh if you want others to see your setup, 
+# but hide them if they contain specific sensitive paths.
+
+# Secret/Sensitive files
+.env
+*.key
+*.json
+# If you eventually add Reddit keys, they usually go in a .env file
+
+# Operating System files
+.DS_Store
+Thumbs.db
